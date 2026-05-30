@@ -1,5 +1,7 @@
 # CUDA-Based-GPU-vs-GPU-Rock-Paper-Scissors-Game.
 ## Project Overview
+## Name : Harini S
+## Reg no : 212224240049
 
 This project demonstrates a simple GPU vs GPU Rock Paper Scissors Game using CUDA. Two GPU players automatically generate moves (Rock, Paper, or Scissors) using CUDA kernels. The generated moves are compared, and the winner for each round is displayed in the terminal.
 
